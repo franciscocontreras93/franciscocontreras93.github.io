@@ -1,6 +1,0 @@
-<plugins> 
-  <pyqgis_plugin name="PluginName" version="2.1.0">
-    <qgis_minimum_version>3.0.0</qgis_minimum_version>
-      <download_url>https://github.com/franciscocontreras93/agrae.git/agrae.zip</download_url>
-  </pyqgis_plugin>
-</plugins>
